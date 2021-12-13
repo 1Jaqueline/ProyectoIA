@@ -1,6 +1,6 @@
 import streamlit as st
 import streamlit.components.v1 as components
-from scipy.spatial import distance
+import scipy.spatial
 import avanzadas
 
 def cargaMD():
