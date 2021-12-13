@@ -28,7 +28,9 @@ def main():
 		st.image("https://918429.smushcdn.com/2325059/wp-content/uploads/2021/03/mano-de-humano-toca-una-pantalla-que-tambien-toca-mano-robotica.jpg?lossy=1&strip=1&webp=1",width=1000)
 
 		st.title('AlGoRithm')
+		st.markdown('Creada por Jaqueline Arias Sanguino ⭐')
 		st.markdown('Bienvenido a la aplicación AlGoRithm, la aplicación que te permite obtener los beneficios de los algoritmos de Inteligencia Artificial de una manera sencilla, amigable e intuitiva. En esta aplicación tendrás acceso a un conjunto de módulos diferentes que te permiten probar distintos algoritmos')
+
 		st.title('Módulos')
 		st.subheader('**Algoritmo Apriori**')
 		st.markdown('🟣 **Reglas de asociación**')
