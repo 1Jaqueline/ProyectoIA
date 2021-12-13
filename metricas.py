@@ -1,5 +1,9 @@
 import streamlit as st
 import streamlit.components.v1 as components
+import pandas as pd                         # Para la manipulación y análisis de datos
+import numpy as np                          # Para crear vectores y matrices n dimensionales
+import matplotlib.pyplot as plt             # Para generar gráficas a partir de los datos
+from scipy.spatial.distance import cdist    # Para el cálculo de distancias
 from scipy.spatial import distance
 import avanzadas
 
